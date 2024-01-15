@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+}
+h1{
+    font-size:40px;
+}
+.calci{
+
+margin-top: 150px;
+
+}
+.C{
+    width: 60px;
+    height:60px;
+    margin-left: 20px;
+    margin-top:20px;
+    background-color: grey;
+    color:rgb(17, 34, 16);
+    font-size:25px;
+    }
+    #initial {
+        font-size: 30px; 
+    }
